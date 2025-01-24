@@ -1,5 +1,5 @@
 # Ball Game
-### Developed by Malki Applebaum ✍️
+### Developed by Tovi Smotni ✍️
 
 ## Description
 Ball Game is an interactive 2-player arcade game where two players control paddles to bounce a ball back and forth. The goal of the game is to prevent the ball from going past your paddle while trying to make the ball go past your opponent's paddle.
@@ -39,4 +39,4 @@ The game features two walls, which are controlled by the players using the keybo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MalkiApplebaum/Ball-in-Python.git
+   git clone https://github.com/ToviSmotni/Ball-in-Python.git
