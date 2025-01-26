@@ -1,8 +1,8 @@
-# Ball Game
+# Tic-Tac-Toe
 ### Developed by Tovi Smotni ✍️
 
 ## Description
-Ball Game is an interactive 2-player arcade game where two players control paddles to bounce a ball back and forth. The goal of the game is to prevent the ball from going past your paddle while trying to make the ball go past your opponent's paddle.
+Tic-Tac-Toe is an interactive 2-player arcade game where two players control paddles to bounce a ball back and forth. The goal of the game is to prevent the ball from going past your paddle while trying to make the ball go past your opponent's paddle.
 
 The game features two walls, which are controlled by the players using the keyboard. The players can move their walls in the game to block the ball and score points. The game ends when the player quits the game by pressing the `q` key.
 
